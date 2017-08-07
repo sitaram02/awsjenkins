@@ -66,7 +66,7 @@
 							"sudo sed -i \"s#Defaults.*requiretty#Defaults\\!requiretty#g\" /etc/sudoers\n",
                                                         "sudo cd /tmp\n",
 							"sudo echo 'Downloading the rpm'\n",
-							"sudo wget http://52.32.249.98/chef-13.1.31-1.el7.x86_64.rpm\n",
+							"sudo https://s3-us-west-1.amazonaws.com/cicdjob/chef-13.2.20-1.el7.x86_64.rpm\n",
 							"sudo rpm -ivh *.rpm\n",
 							"sudo mkdir /etc/chef\n",
 							"cd /etc/chef\n",
