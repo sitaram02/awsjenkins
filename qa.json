@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-e69ebc86"
+    "ParameterValue": "ami-074e2d6769f445be5"
   }, 
   {
     "ParameterKey": "InstanceType",
@@ -9,14 +9,14 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "jenkins"
+    "ParameterValue": "maven"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-827f06da"
+    "ParameterValue": "subnet-c6a89c9d"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-4c53a42a"
+    "ParameterValue": "sg-0b91b4e5c616e0c29"
   }
 ]
